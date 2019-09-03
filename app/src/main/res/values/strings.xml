@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">见道</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="unknow_error">未知错误</string>
+    <string name="conn_error">连接失败</string>
+    <string name="conn_timeout">连接超时</string>
+    <string name="net_error">网络错误</string>
+    <string name="parse_error">解析异常</string>
+    <string name="net_unused">当前网络不可用</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">首页</string>
+    <string name="video">视屏</string>
+    <string name="special">专题</string>
+    <string name="personal">个人</string>
+
+    <string name="text_login">登录</string>
+    <string name="text_phone_number">手机号</string>
+    <string name="text_input_password">请输入密码</string>
+    <string name="login_verity">验证码登录</string>
+    <string name="text_register_get_code">获取验证码</string>
+    <string name="text_register_next_step">下一步</string>
+    <string name="text_register_goto_login">已有账号？登录</string>
+    <string name="text_input_confirm_password">确认密码</string>
+    <string name="text_register">注册</string>
+    <string name="text_setting_psd_goto_register">注册|社交账号登录</string>
+    <string name="text_error_input_phone_number">手机号格式错误</string>
+    <string name="text_error_input_sms_code">验证码格式错误</string>
+    <string name="text_error_get_sms_code_fail">获取验证码失败</string>
+    <string name="text_input_verity">请输入验证码</string>
+    <string name="text_error_null_password">密码不能为空</string>
+    <string name="text_error_tow_password_not_same">两次密码不一致</string>
+</resources>
